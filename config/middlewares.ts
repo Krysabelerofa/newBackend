@@ -7,12 +7,12 @@ module.exports = [
         useDefaults: true,
         directives: {
           'connect-src': ["'self'", 'https:'],
-          'img-src': ["'self'", 'data:', 'blob:', 'https:', 'https://strapi-backend-app-8zq2.onrender.com'],
+          'img-src': ["'self'", 'data:', 'blob:', 'https:', 'https://newbackend-iyol.onrender.com'],
           'media-src': [
             "'self'",
             'data:',
             'blob:',
-            'https://strapi-backend-app-8zq2.onrender.com',
+            'https://newbackend-iyol.onrender.com',
             // process.env.NEXT_PUBLIC_STRAPI_URL
           ],
         },
