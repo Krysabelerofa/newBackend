@@ -1,0 +1,48 @@
+{
+    "collectionName": "components_blocks_rozvrh_tables",
+    "info": {
+        "displayName": "RozvrhTable",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "nadpis": {
+            "type": "string"
+        },
+        "pondeli": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.training-schedule-row"
+        },
+        "utery": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.training-schedule-row"
+        },
+        "streda": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.training-schedule-row"
+        },
+        "ctvrtek": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.training-schedule-row"
+        },
+        "patek": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.training-schedule-row"
+        },
+        "sobota": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.training-schedule-row"
+        },
+        "nedele": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.training-schedule-row"
+        }
+    }
+}

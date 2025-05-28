@@ -1,0 +1,28 @@
+{
+    "collectionName": "components_layout_footers",
+    "info": {
+        "displayName": "Footer"
+    },
+    "options": {},
+    "attributes": {
+        "logo": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.logo"
+        },
+        "navigace": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.link"
+        },
+        "cislo": {
+            "type": "text"
+        },
+        "email": {
+            "type": "text"
+        },
+        "adresa": {
+            "type": "text"
+        }
+    }
+}

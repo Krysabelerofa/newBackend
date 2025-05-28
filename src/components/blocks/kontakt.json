@@ -1,0 +1,21 @@
+{
+    "collectionName": "components_blocks_kontakts",
+    "info": {
+        "displayName": "Kontakt"
+    },
+    "options": {},
+    "attributes": {
+        "nadpis": {
+            "type": "string"
+        },
+        "obrazekPozadi": {
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos"
+            ],
+            "type": "media",
+            "multiple": true
+        }
+    }
+}

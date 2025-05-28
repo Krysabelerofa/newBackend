@@ -1,0 +1,22 @@
+{
+    "collectionName": "components_blocks_ceniks",
+    "info": {
+        "displayName": "Cenik"
+    },
+    "options": {},
+    "attributes": {
+        "nadpis": {
+            "type": "string"
+        },
+        "obrazekPozadi": {
+            "allowedTypes": [
+                "files",
+                "images",
+                "videos"
+            ],
+            "type": "media",
+            "multiple": false,
+            "required": false
+        }
+    }
+}

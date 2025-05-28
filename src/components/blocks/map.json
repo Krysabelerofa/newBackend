@@ -1,0 +1,15 @@
+{
+    "collectionName": "components_blocks_maps",
+    "info": {
+        "displayName": "Map"
+    },
+    "options": {},
+    "attributes": {
+        "nadpis": {
+            "type": "string"
+        },
+        "mapaUrl": {
+            "type": "text"
+        }
+    }
+}

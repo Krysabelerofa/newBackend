@@ -1,0 +1,43 @@
+{
+  "collectionName": "components_blocks_faqs",
+  "info": {
+    "displayName": "Faq",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "otazka1": {
+      "type": "text"
+    },
+    "odpoved1": {
+      "type": "richtext"
+    },
+    "otazka2": {
+      "type": "text"
+    },
+    "odpoved2": {
+      "type": "richtext"
+    },
+    "otazka3": {
+      "type": "text"
+    },
+    "odpoved3": {
+      "type": "richtext"
+    },
+    "otazka4": {
+      "type": "text"
+    },
+    "odpoved4": {
+      "type": "richtext"
+    },
+    "otazka5": {
+      "type": "text"
+    },
+    "odpoved5": {
+      "type": "richtext"
+    },
+    "nadpis": {
+      "type": "string"
+    }
+  }
+}

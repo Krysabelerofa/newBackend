@@ -1,0 +1,28 @@
+{
+    "collectionName": "components_blocks_recenzes",
+    "info": {
+        "displayName": "Recenze",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "nadpis": {
+            "type": "string"
+        },
+        "recenze": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.recenze-jedna"
+        },
+        "obrazekPozadi": {
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ],
+            "type": "media",
+            "multiple": false
+        }
+    }
+}

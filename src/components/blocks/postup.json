@@ -1,0 +1,41 @@
+{
+    "collectionName": "components_blocks_postup_s",
+    "info": {
+        "displayName": "Postup "
+    },
+    "options": {},
+    "attributes": {
+        "napis": {
+            "type": "string"
+        },
+        "tlacitko": {
+            "type": "component",
+            "repeatable": false,
+            "component": "elements.link"
+        },
+        "nadpisBlock1": {
+            "type": "string"
+        },
+        "podNadpisBlock1": {
+            "type": "text"
+        },
+        "nadpisBlock2": {
+            "type": "string"
+        },
+        "podNadpisBlock2": {
+            "type": "text"
+        },
+        "nadpisBlock3": {
+            "type": "string"
+        },
+        "podNadpisBlock3": {
+            "type": "text"
+        },
+        "nadpisBlock4": {
+            "type": "string"
+        },
+        "podNadpisBlock4": {
+            "type": "text"
+        }
+    }
+}

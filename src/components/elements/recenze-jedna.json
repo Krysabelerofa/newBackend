@@ -1,0 +1,15 @@
+{
+    "collectionName": "components_elements_recenze_jednas",
+    "info": {
+        "displayName": "recenzeJedna"
+    },
+    "options": {},
+    "attributes": {
+        "recenze": {
+            "type": "richtext"
+        },
+        "jmenoRec": {
+            "type": "string"
+        }
+    }
+}

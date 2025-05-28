@@ -1,0 +1,40 @@
+{
+    "kind": "singleType",
+    "collectionName": "home_pages",
+    "info": {
+        "singularName": "home-page",
+        "pluralName": "home-pages",
+        "displayName": "Home Page",
+        "description": ""
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "attributes": {
+        "Nadpis": {
+            "type": "text"
+        },
+        "Podnapis": {
+            "type": "text"
+        },
+        "blocks": {
+            "type": "dynamiczone",
+            "components": [
+                "blocks.postup",
+                "blocks.hero-text",
+                "blocks.faq",
+                "blocks.onas",
+                "blocks.treneri",
+                "blocks.recenze",
+                "blocks.rozvrh",
+                "blocks.registrace",
+                "blocks.map",
+                "blocks.kontakt",
+                "blocks.kontakt-form",
+                "blocks.ceny",
+                "blocks.cenik",
+                "blocks.rozvrh-table"
+            ]
+        }
+    }
+}

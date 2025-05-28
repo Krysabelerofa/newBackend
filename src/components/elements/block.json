@@ -1,0 +1,15 @@
+{
+    "collectionName": "components_elements_blocks",
+    "info": {
+        "displayName": "block"
+    },
+    "options": {},
+    "attributes": {
+        "kontaktUdajNazev": {
+            "type": "string"
+        },
+        "kontaktUdaj": {
+            "type": "text"
+        }
+    }
+}

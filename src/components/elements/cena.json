@@ -1,0 +1,23 @@
+{
+    "collectionName": "components_elements_cenas",
+    "info": {
+        "displayName": "Cena"
+    },
+    "options": {},
+    "attributes": {
+        "typVztupu": {
+            "type": "string"
+        },
+        "cena": {
+            "type": "string"
+        },
+        "popis": {
+            "type": "text"
+        },
+        "tlacitko": {
+            "type": "component",
+            "repeatable": false,
+            "component": "elements.link"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "collectionName": "components_blocks_kontakt_forms",
+    "info": {
+        "displayName": "KontaktForm",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "nadpis": {
+            "type": "string"
+        },
+        "blockKontakt": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.block"
+        }
+    }
+}

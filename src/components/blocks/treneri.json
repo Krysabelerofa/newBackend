@@ -1,0 +1,95 @@
+{
+    "collectionName": "components_blocks_treneris",
+    "info": {
+        "displayName": "Treneri",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "nadpis": {
+            "type": "string"
+        },
+        "jmeno1": {
+            "type": "string"
+        },
+        "sport1": {
+            "type": "string"
+        },
+        "obrazekTrener": {
+            "type": "media",
+            "multiple": false,
+            "required": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ]
+        },
+        "popisTrener": {
+            "type": "text"
+        },
+        "jmeno2": {
+            "type": "string"
+        },
+        "sport2": {
+            "type": "string"
+        },
+        "obrazekTrener2": {
+            "type": "media",
+            "multiple": true,
+            "required": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ]
+        },
+        "popisTrener2": {
+            "type": "text"
+        },
+        "jmeno3": {
+            "type": "string"
+        },
+        "sport3": {
+            "type": "string"
+        },
+        "obrazekTrener3": {
+            "type": "media",
+            "multiple": true,
+            "required": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos"
+            ]
+        },
+        "popisTrener3": {
+            "type": "text"
+        },
+        "jmeno4": {
+            "type": "string"
+        },
+        "sport4": {
+            "type": "string"
+        },
+        "obrazekTrener4": {
+            "type": "media",
+            "multiple": false,
+            "required": false,
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos",
+                "audios"
+            ]
+        },
+        "popisTrener4": {
+            "type": "text"
+        },
+        "podNadpis": {
+            "type": "text"
+        }
+    }
+}

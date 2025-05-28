@@ -1,0 +1,15 @@
+{
+    "collectionName": "components_elements_training_schedule_rows",
+    "info": {
+        "displayName": "Training Schedule Row"
+    },
+    "options": {},
+    "attributes": {
+        "cas": {
+            "type": "string"
+        },
+        "nazevTreninku": {
+            "type": "string"
+        }
+    }
+}

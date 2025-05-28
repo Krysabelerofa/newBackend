@@ -1,0 +1,21 @@
+{
+    "collectionName": "components_blocks_onas",
+    "info": {
+        "displayName": "Onas"
+    },
+    "options": {},
+    "attributes": {
+        "title": {
+            "type": "string"
+        },
+        "obrazek": {
+            "allowedTypes": [
+                "images",
+                "files",
+                "videos"
+            ],
+            "type": "media",
+            "multiple": false
+        }
+    }
+}

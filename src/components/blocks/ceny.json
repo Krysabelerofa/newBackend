@@ -1,0 +1,21 @@
+{
+    "collectionName": "components_blocks_cenies",
+    "info": {
+        "displayName": "Ceny",
+        "description": ""
+    },
+    "options": {},
+    "attributes": {
+        "nadpis": {
+            "type": "string"
+        },
+        "cena": {
+            "type": "component",
+            "repeatable": true,
+            "component": "elements.cena"
+        },
+        "multisporText": {
+            "type": "text"
+        }
+    }
+}
